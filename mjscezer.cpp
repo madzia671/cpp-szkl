@@ -39,11 +39,10 @@ else{
             cout << "ma 1 miejsce zerowe " << (-1) * b / (2 * a)<< endl;
         }
         else{
-            if( delta(a,b,c) < 0 ){
+            if( delta(a,b,c) < 0 )
             cout << "brak miejsc zerowych " << endl ;
         }
     }
 
-}
 }
 }
